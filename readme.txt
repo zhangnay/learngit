@@ -4,3 +4,4 @@ Git has a mutable indes called stage.
 Git tracks changes of file.
 Creating a new branch is quick AND simple.
 Add merge.
+Add nowWork.
